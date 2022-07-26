@@ -1,0 +1,23 @@
+.card-title{
+    
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+.limittext{
+    
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+.object-fit{
+  object-fit:contain;
+}
+.invalid-feedback{
+	display:block;
+	color: red;
+}
+/* Extra small devices (phones, 600px and down) */
+
